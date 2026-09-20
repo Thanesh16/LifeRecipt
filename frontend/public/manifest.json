@@ -1,0 +1,68 @@
+{
+  "name": "LifeReceipt — Digital Ownership Intelligence",
+  "short_name": "LifeReceipt",
+  "description": "AI-Powered Digital Ownership Intelligence, Warranty Tracking, and Digital Passport Platform",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0284c7",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities", "finance"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add Purchase",
+      "short_name": "Add",
+      "description": "Scan a receipt or record an asset purchase",
+      "url": "/add-purchase",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "My Products",
+      "short_name": "Products",
+      "description": "View physical asset catalog",
+      "url": "/products",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Services & Repairs",
+      "short_name": "Services",
+      "description": "Service hub and warranty claims",
+      "url": "/services",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Alerts",
+      "short_name": "Alerts",
+      "description": "Warranty expiry and service deadline alerts",
+      "url": "/alerts",
+      "icons": [{ "src": "/icons/icon-192.svg", "sizes": "192x192" }]
+    }
+  ]
+}

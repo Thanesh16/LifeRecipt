@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="36" fill="#020617"/>
+  <defs>
+    <linearGradient id="grad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield Badge Outline -->
+  <path d="M96 28 L146 50 V102 C146 134 96 160 96 160 C96 160 46 134 46 102 V50 Z" 
+        fill="none" stroke="url(#grad192)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Internal Check / Receipt Path -->
+  <path d="M72 74 H120 M72 96 H120 M72 118 H104" 
+        stroke="#38bdf8" stroke-width="6" stroke-linecap="round"/>
+  <!-- Small Accent Circle -->
+  <circle cx="96" cy="142" r="4" fill="#38bdf8"/>
+</svg>

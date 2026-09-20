@@ -1,0 +1,26 @@
+{
+  "name": "lifereceipt",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LIFERECEIPT - AI-Powered Digital Ownership Intelligence Platform",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "backend": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "backend:start": "npm start --prefix backend",
+    "frontend:build": "npm run build --prefix frontend",
+    "build": "npm run frontend:build",
+    "start": "npm start --prefix backend"
+  },
+  "keywords": [
+    "digital-ownership",
+    "warranty-tracker",
+    "receipt-intelligence",
+    "mern",
+    "react",
+    "express"
+  ],
+  "author": "LifeReceipt Core Team",
+  "license": "UNLICENSED"
+}
