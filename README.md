@@ -80,15 +80,17 @@ structured, intelligent, and continuously evolving digital ownership record.
 - [📱 Progressive Web App](#-progressive-web-app)
 - [🎯 Use Cases](#-use-cases)
 - [💡 Innovation](#-innovation)
+- [🧩 Additional Intelligence Features](#-additional-intelligence-features)
 - [🏆 Hackathon Relevance](#-hackathon-relevance)
+- [🏗️ Architecture Principles](#️-architecture-principles)
 - [🔮 Future Roadmap](#-future-roadmap)
 - [⚠️ Limitations](#️-limitations)
 - [🤖 Responsible AI](#-responsible-ai)
 - [📈 Future Vision](#-future-vision)
+- [📌 Production URLs](#-production-urls)
 - [👨‍💻 Developer](#-developer)
 
 ---
-
 # 🌟 What is LifeReceipt?
 
 LifeReceipt is an **AI-powered digital ownership intelligence platform**
