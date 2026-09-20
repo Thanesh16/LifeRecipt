@@ -159,3 +159,29 @@ Maintenance
 Accessories
 =
 Actual Ownership Cost
+
+---
+
+## 🎬 Demo
+
+### 📄 Manual Receipt Upload & AI Processing
+
+<p align="center">
+  <img src="docs/demo/manual-receipt-workflow.gif" alt="LifeReceipt Manual Receipt Workflow" width="900">
+</p>
+
+<p align="center">
+  <em>Manual receipt/document upload → AI extraction → ownership record → warranty and purchase insights</em>
+</p>
+
+<br>
+
+### 📧 Gmail Receipt Intelligence
+
+<p align="center">
+  <img src="docs/demo/gmail-receipt-workflow.gif" alt="LifeReceipt Gmail Receipt Workflow" width="900">
+</p>
+
+<p align="center">
+  <em>Secure Google OAuth → Gmail purchase-email scanning → receipt extraction → automatic ownership intelligence</em>
+</p>
