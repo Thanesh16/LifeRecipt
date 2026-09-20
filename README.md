@@ -45,6 +45,50 @@ structured, intelligent, and continuously evolving digital ownership record.
 
 ---
 
+# 📑 Table of Contents
+
+- [🌟 What is LifeReceipt?](#-what-is-lifereceipt)
+- [🎯 The Problem](#-the-problem)
+- [💡 The Solution](#-the-solution)
+- [🚀 Core Features](#-core-features)
+- [🤖 AI-Powered Intelligence](#-ai-powered-intelligence)
+- [🧾 Receipt & Document Intelligence](#-receipt--document-intelligence)
+- [📧 Gmail Receipt Intelligence](#-gmail-receipt-intelligence)
+- [📦 Digital Product Ownership](#-digital-product-ownership)
+- [🛡️ Warranty & Returns](#️-warranty--returns)
+- [🔧 Service & Maintenance](#-service--maintenance)
+- [💰 Total Cost of Ownership](#-total-cost-of-ownership)
+- [🔄 Ownership Transfer](#-ownership-transfer)
+- [🪪 Digital Ownership Passport](#-digital-ownership-passport)
+- [🤝 AI Assistant](#-ai-assistant)
+- [🔔 Smart Alerts](#-smart-alerts)
+- [🔎 Search & Organization](#-search--organization)
+- [📊 Analytics](#-analytics)
+- [🇮🇳 India-First Design](#-india-first-design)
+- [🔐 Security & Privacy](#-security--privacy)
+- [🏗️ System Architecture](#️-system-architecture)
+- [🔄 Application Flow](#-application-flow)
+- [🧠 AI Processing Flow](#-ai-processing-flow)
+- [📧 Gmail Processing Flow](#-gmail-processing-flow)
+- [🗂️ Data Model](#️-data-model)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Environment Configuration](#️-environment-configuration)
+- [💻 Local Development](#-local-development)
+- [☁️ Production Deployment](#️-production-deployment)
+- [🧪 Testing & Verification](#-testing--verification)
+- [📱 Progressive Web App](#-progressive-web-app)
+- [🎯 Use Cases](#-use-cases)
+- [💡 Innovation](#-innovation)
+- [🏆 Hackathon Relevance](#-hackathon-relevance)
+- [🔮 Future Roadmap](#-future-roadmap)
+- [⚠️ Limitations](#️-limitations)
+- [🤖 Responsible AI](#-responsible-ai)
+- [📈 Future Vision](#-future-vision)
+- [👨‍💻 Developer](#-developer)
+
+---
+
 # 🌟 What is LifeReceipt?
 
 LifeReceipt is an **AI-powered digital ownership intelligence platform**
@@ -151,37 +195,11 @@ A product may later generate:
 
 ```text
 Purchase
-+
+   +
 Repairs
-+
+   +
 Maintenance
-+
+   +
 Accessories
-=
+   =
 Actual Ownership Cost
-```
----
-
-## 🎬 Demo
-
-### 📄 Manual Receipt Upload & AI Processing
-
-<p align="center">
-  <img src="docs/demo/manual-receipt-workflow.gif" alt="LifeReceipt Manual Receipt Workflow" width="900">
-</p>
-
-<p align="center">
-  <em>Manual receipt/document upload → AI extraction → ownership record → warranty and purchase insights</em>
-</p>
-
-<br>
-
-### 📧 Gmail Receipt Intelligence
-
-<p align="center">
-  <img src="docs/demo/gmail-receipt-workflow.gif" alt="LifeReceipt Gmail Receipt Workflow" width="900">
-</p>
-
-<p align="center">
-  <em>Secure Google OAuth → Gmail purchase-email scanning → receipt extraction → automatic ownership intelligence</em>
-</p>
